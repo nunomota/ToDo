@@ -19,4 +19,4 @@ A simple application for you to keep track of stuff you have to do (a to-do list
 
 As you can see in the images above, the tasks are added in the order you typped them in and with random colors;
 
-**4)** 
+**4)** Once you have completed one of them, just click on the square at the right of the correspondant task and it will be deleted from your list;
