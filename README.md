@@ -11,4 +11,8 @@ A simple application for you to keep track of stuff you have to do (a to-do list
 	<p>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Assets/Resources/Textures/TopMenu/Buttons/Add.png?raw=true" width="16" height="16" alt="ToDo Icon" style="vertical-allign:middle;"/></img> Used to add a new group of tasks (or a single one);</p>
 	<p>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Assets/Resources/Textures/TopMenu/Buttons/Options.png?raw=true" width="16" height="16" alt="ToDo Icon" style="vertical-allign:middle;"/></img> Used to access app settings (currently unavailable);</p>
 
-**3)** 
+**3)** After pressing "<img src="/Assets/Resources/Textures/TopMenu/Buttons/Add.png?raw=true" width="16" height="16" alt="ToDo Icon" style="vertical-allign:middle;"/></img>" you are prompted with a text area where you are supposed to type in the taks you want to add, one per line
+<p>
+	<img src="/Screenshots/AddNewTask.png" alt="Adding new task">
+	<img src="/Screenshots/NewTaskAdded.png" alt="New tasks added">
+</p>
