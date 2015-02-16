@@ -13,6 +13,6 @@ A simple application for you to keep track of stuff you have to do (a to-do list
 
 **3)** After pressing "<img src="/Assets/Resources/Textures/TopMenu/Buttons/Add.png?raw=true" width="16" height="16" alt="ToDo Icon" style="vertical-allign:middle;"/></img>" you are prompted with a text area where you are supposed to type in the taks you want to add, one per line
 <p>
-	<img src="/Screenshots/AddNewTask.png" alt="Adding new task">
-	<img src="/Screenshots/NewTaskAdded.png" alt="New tasks added">
+	<img src="/Screenshots/AddNewTask.png" width="360" height="640" alt="Adding new task">
+	<img src="/Screenshots/NewTaskAdded.png" width="360" height="640" alt="New tasks added">
 </p>
