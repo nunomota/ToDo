@@ -1,4 +1,4 @@
-<p allign="center">
+<p align="center">
 	<img src="/Assets/Resources/Release/Icon.png?raw=true" width="64" height="64" alt="ToDo Icon">
 </p>
 
